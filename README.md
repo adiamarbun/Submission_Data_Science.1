@@ -1,5 +1,5 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Institute
-# Disusun Oleh: Adiasaptra_tdbm
+# Disusun Oleh: Adiasaputra_tdbm
 
 ## Business Understanding
 Jaya Jaya Institute adalah salah satu institusi pendidikan perguruan yang telah berdiri sejak tahun 2000. Jaya Jaya Institute dikenal sebagai institusi yang menerima siswa dari berbagai macam kalangan. Institusi pendidikan ini memiliki kelas pagi dan malam dan menyediakan lebih dari 10 pilihan jurusan. 
