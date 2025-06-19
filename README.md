@@ -31,7 +31,8 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
-![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/dashboard_final.png)
+![dashboard]![image](https://github.com/user-attachments/assets/ebe1c883-98c8-4140-843d-78aeb6ebad2c)
+
 
 Pada bagian atas dashboard, terdapat empat slicer yang bertujuan untuk membantu pengguna menfilter sesuai kebutuhan. Slicer tersebut terdiri dari sebagai berikut.
 1. Status - terdiri dari "Dropout" dan "Not Dropout". Jika pengguna memilih "Not Dropout", pengguna dapat memilah lebih lanjut menjadi "Enrolled" dan "Graduated".
@@ -57,15 +58,17 @@ Langkah-langkah menggunakan sistem machine learning berbasis random forest adala
 
 2. Memilih "Prediction" pada taskbar di sisi kiri.
 
-![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/taskbar.png)
+![dashboard]![image](https://github.com/user-attachments/assets/15323e65-493c-42e9-8d13-a475a9c9be83)
+
 
 3. Mengisi data yang dibutuhkan. Perlu diperhatikan bahwa nilai jurusan atau Course tidak boleh 'None' serta terdapat batas minimum dan maksimum pada input numerik. Selain itu, pengguna harus menekan enter agar dapat menyimpan data numerik.
 
-![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/prediksi2.png)
+![dashboard]![image](https://github.com/user-attachments/assets/2fce8a91-7a0b-4b11-a2a4-d5fbbe2e56be)
+
 
 4. Hasil prediksi akan tampil di bagian bawah. Akan tetapi, pesan error akan muncul apabila pengguna tidak memilih jurusan atau Course.
 
-![dashboard](https://raw.githubusercontent.com/dieselgank/Media/refs/heads/main/prediksi3.png)
+![dashboard]![image](https://github.com/user-attachments/assets/e5cc4d23-965f-42ea-bf67-8fcacf71006c)
 
 
 ## Conclusion
